@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<link rel="stylesheet" href="sty.css" type="text/css">
+<link rel="stylesheet" href="a.css" type="text/css">
 <meta charset="UTF-8">
 <title>ドラえもん</title>
 </head>
